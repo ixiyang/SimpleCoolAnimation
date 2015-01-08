@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleCoolAnimation</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_new">New</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="weibo">微博</string>
+    <string name="chat">聊天</string>
+    <string name="task">任务</string>
+    <string name="leave">请假</string>
+    <string name="business">出差</string>
+    <string name="expense">报销</string>
+</resources>
